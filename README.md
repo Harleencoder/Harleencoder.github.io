@@ -21,16 +21,21 @@
 1. **PYTHON** :-   Experienced in using python . I have solved different questions , made  different GRAPHS, and also used Python Libraries like NUMPY & PANDAS & Looking forward to get more expert in PYTHON
 2.  **JAVA**  :-  Currently learning JAVA
 
-##### Database Management 
+##### Databse Management
 1. **MY SQL** :- Experienced in using sql for database operations , including data storage and management
 
 ###### Additional Skills
-1. **SWIMMING**:- Apart from computer languages I  am also having interest in SWIMMING & I am also good at it and want to join SWIMMING in college too
-2.  **BAKING**:- I also love to BAKE & always wanted to persue my career in it
+- **SWIMMING**:- Apart from computer languages I  am also having interest in SWIMMING & I am also good at it and want to join SWIMMING in college too
+- **BAKING**:- I also love to BAKE & always wanted to persue my career in it
 
 ####### Summary
-- I am Harleen kaur . I  did my schooling from **BCM SCHOOL** . Recently I got Admission in **GURU NANAK DEV ENGINEERING COLLEGE** in BTECH IT DEPARTMENT . I am looking forward to get expert in coding . Moreover I am currently learning java and looking forward to gain as much knowledge as I  can from peers ,seniors and my teachers .
- 
+- I am Harleen kaur . I  did my schooling from **BCM SCHOOL** . Recently I got Admission in **GURU NANAK DEV ENGINEERING COLLEGE** in BTECH IT DEPARTMENT . I am looking forward to get expert in coding . Moreover I am currently learning java and looking forward to gain as much knowledge as I  can from peers ,seniors and my **TEACHERS**
+
 ######## Contact Details
 - **Email**:- harleenkaur0631@gmail.com
-     
+
+
+
+
+
+
