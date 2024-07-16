@@ -12,4 +12,8 @@
 |**Subject**|**Total Marks**|**Marks Obtained**|
 | ----------- | ----------- | ----------- |
 |English|100|96|
+|Chemistry|100|95|
+|Information Practices|100|91|
+|Mathematics|100|83|
+|Physics|100|71|
      
