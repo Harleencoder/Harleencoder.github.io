@@ -21,7 +21,7 @@
 1. **PYTHON** :-   Experienced in using python . I have solved different questions , made  different GRAPHS, and also used Python Libraries like NUMPY & PANDAS & Looking forward to get more expert in PYTHON
 2.  **JAVA**  :-  Currently learning JAVA
 
-#####     Databse Management
+#####     Database Management
 1. **MY SQL** :- Experienced in using sql for database operations , including data storage and management
 
 ######      Additional Skills
