@@ -31,7 +31,8 @@
 #######       Summary
 - I am Harleen kaur . I  did my schooling from **BCM SCHOOL** . Recently I got Admission in **GURU NANAK DEV ENGINEERING COLLEGE** in BTECH IT DEPARTMENT . I am looking forward to get expert in coding . Moreover I am currently learning java and looking forward to gain as much knowledge as I  can from peers ,seniors and my **TEACHERS**
 
-########        Contact Details
+ 
+ ########        Contact Details
 - **Email**:- harleenkaur0631@gmail.com
 
 
