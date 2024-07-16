@@ -10,8 +10,6 @@
 ### Class 12 th DETAILS :-
 
 |**Subject**|**Total Marks**|**Marks Obtained**|
-
 | ----------- | ----------- | ----------- |
-
-|English|100|96
+|English|100|96|
      
