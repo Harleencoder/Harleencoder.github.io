@@ -31,7 +31,7 @@
 
 <h6> Summary </h6>
 
-- I am Harleen kaur . I  did my schooling from **BCM SCHOOL** . Recently I got Admission in **GURU NANAK DEV ENGINEERING COLLEGE** in BTECH IT DEPARTMENT . I am looking forward to get expert in coding . Moreover I am currently learning java and looking forward to gain as much knowledge as I  can from peers ,seniors and my **TEACHERS**
+- I am Harleen kaur . I  did my schooling from **BCM SCHOOL** .I got 87.2 % in my 12 th class. Recently I got Admission in **GURU NANAK DEV ENGINEERING COLLEGE** in BTECH IT DEPARTMENT . I am looking forward to get expert in coding . Moreover I am currently learning java and looking forward to gain as much knowledge as I  can from **Peers** ,**Seniors** and my **TEACHERS**
  
  <h7> Contact Details </h7>
  
