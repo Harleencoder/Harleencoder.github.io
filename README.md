@@ -27,7 +27,7 @@
 ###### Additional Skills
 
 - **SWIMMING**:- Apart from computer languages I  am also having interest in SWIMMING & I am also good at it and want to join SWIMMING in college too
-- **BAKING**:- I also love to BAKE & always wanted to persue my career
+- **BAKING**:- I also love to BAKE & always wanted to persue my career in it.
 
 <h6> Summary </h6>
 
