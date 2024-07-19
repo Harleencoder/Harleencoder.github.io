@@ -35,7 +35,7 @@
 
   ## Blog Post
 
-  [View My Blog](https://github.com/Harleencoder/Harleencoder.github.io/blob/main/my-experience/read.md)
+  [View My Blog](my-experience/read.md)
   
   <h2>Contact Details</h2>
  
