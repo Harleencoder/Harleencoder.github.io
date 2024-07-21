@@ -1,5 +1,5 @@
 # MY EXPERIENCE @ GNDEC
-![GNDEC LOGO](college.jpg)
+![GNDEC LOGO](https://github.com/Harleencoder/Harleencoder.github.io/blob/main/logo.jpg)
 
 
 
