@@ -60,17 +60,18 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 ## **DAY 4**
 
 - Our fourth day started in *AUDIOTORIUM*. DR. RANDHIR SIR told us about **GITHUB** and helped us in making our first repository.
-- DR. PYARE LAL was First Speaker of the Day . He recited Famous POEMS and also told us about old ways of studying.
-- MR. SONY GOYAL was Second Speaker  of the Day
+- Dr. PYARE LAL was First Speaker of the Day . He recited Famous POEMS and also told us about old ways of studying.
+- Mr. SONY GOYAL was Second Speaker  of the Day
     - He told us that
     - What is Life?
-            - The word L in LIFE stands for - Learn
-            - The Seconds word I stands for- Inquire
-            - The third word F stands for- Future
-            - The fourth word E stands for- Explore .
-    - He gave us two mantras of success
-             1. Give your 100%
-             2. Do what you love,love what you do
+         -  The word L in LIFE stands for - Learn
+         -  The Seconds word I stands for- Inquire
+         -  The third word F stands for- Future
+         -  The fourth word E stands for- Explore .
+  - He gave us two mantras of success:-
+    1. Give your 100%
+    2. Do what you love,love what you do
+       
 - Mr. PANCHAM (*our senior*) was Third Speaker of the Day. He gave us brief information about **BODY LANGUAGES** AND **SOCIETY OF AUTOMOTIVE ENGINEERS**.
 - I also joined **CODEGNE** Today.In this **DR.H.S. RAI** sir will guide us about various technologies.
 
@@ -97,7 +98,37 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
    8.  When the Self has a feeling of self-regulation (the responsibility for nurturing, protection and right utilisation of the Body), and it is able to fulfil this responsibility, the Body is in harmony (good health). This feeling of self-regulation is instrumental in identifying the need for physical facility and ensuring prosperity.
     
 - In Our Second Lecture  our **SENIORS** gave us brief Information about **CANVA** . We also made our First **TEMPLATE** using canva
-- We also     
+- Later in the day, we attended a meeting of CodeGNE. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
+
+ ## **DAY 7**
+
+ - Our Seventh day started in *AUDIOTORIUM*.
+ - Pf HARPAL SINGH PANNU was First Speaker of the Day
+    - He told us about his *Childhood,his struggles and Story behind his name* which was very interesting and inspiring
+    - He told us many  **SAKHIS OF GURU NANAK DEV JI**
+    - His Religious talks were very interesting and inspiring
+ - After that there was lecture of **UHV**
+    -  we laearnt in **UHV** that:-
+        -  Relationship is between one self and other self
+        -  There are feelings in realtionship and that can be easily recognised
+        -  There are *9 Feelings in Relationship*:-
+        - *TRUST* (Foundational Value)
+        - *RESPECT*
+        - *AFFECTION*
+        - *CARE*
+        - *GUIDANCE*
+        - *REVERENCE*
+        - *GLORY*
+        - *GRATITUDE*
+        - *LOVE* ( COMPLETE LOVE)
+            
+                     
+    -  
+    -   
+       
+
+ 
+
       
 
  
