@@ -156,8 +156,22 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
         ## **DAY 8**
         - Er. Kanwardeep Grewal mam intorduced  us to  **The Journey from Campus to Corporate and Building a Future Beyond the Classroom**. In addition with technical skills, **Soft skills** are also improtant. Without soft skills our technical skills are Zero. We also saw a *Role play* by our seniors related to interviews that teaches us about how to behave during interviews and how to maintain  our confidence in front of interviewer.
         - What are soft skills?
-        - Basic etiquettes
-        - Personality traits
+           - Basic etiquettes
+           - Personality traits
+         ## First Impression
+        
+        - ABC of first impression:-
+        - Appearance
+        - Behaviour
+        - Communication
+      ## Key Points
+      
+        - It takes 7 seconds to form first impression.
+        - Don’t use fillers in communication.
+        - Most important thing- NETWORKING
+        - Groom yourself
+
+      - 
         
 
 
