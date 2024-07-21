@@ -133,10 +133,10 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 
   -  **Dr. Jasvir Singh Grewal** is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
 
-  <h1>*Work Done by NSS*</h1>:-
+  <h1><i>Work Done by NSS</h1></i>:-
   - Afforestation
   - AIDS Awareness
-  - Blood Donation Camps
+  - Blood Donation Camp
   - Cleaniness of Our Environment
   - Disaster Manangement
 
@@ -174,7 +174,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
   
 - After that all students of IT section A and B assembled in **SEMINAR HALL**. There Our Teachers organised a quiz for us which was very informative. IT section B won the quiz.After that there was interation with our *SENIOR* who told us informative things in funny way.
 
- <h1>**Workshop 3: A Deep Dive into Pandoc**</h1>
+ <h1>Workshop 3: A Deep Dive into Pandoc</h1>
   - On Day 8 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. Our team leader assigned tasks to team members and all performed their tasks very well.
 
 ## The Technical Hurdles
