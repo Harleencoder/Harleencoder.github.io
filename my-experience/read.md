@@ -1,5 +1,5 @@
 # MY EXPERIENCE @ GNDEC
-![GNDEC LOGO](logo.jpg)
+![GNDEC LOGO](college.jpg)
 
 
 
