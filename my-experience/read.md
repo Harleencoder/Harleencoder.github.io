@@ -61,10 +61,16 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
 - Our fourth day started in *AUDIOTORIUM*. DR. RANDHIR SIR told us about **GITHUB** and helped us in making our first repository.
 - DR. PYARE LAL was First Speaker of the Day . He recited Famous POEMS and also told us about old ways of studying.
-- MR. SONY GOYAL was Second Speaker  of the Day .
-     - He gave us two mantras of success
-         1. Give your 100%
-         2. Do what you love,love what you do
+- MR. SONY GOYAL was Second Speaker  of the Day
+    - He told us that
+    - What is Life?
+            - The word L in LIFE stands for - Learn
+            - The Seconds word I stands for- Inquire
+            - The third word F stands for- Future
+            - The fourth word E stands for- Explore .
+    - He gave us two mantras of success
+             1. Give your 100%
+             2. Do what you love,love what you do
 - Mr. PANCHAM (*our senior*) was Third Speaker of the Day. He gave us brief information about **BODY LANGUAGES** AND **SOCIETY OF AUTOMOTIVE ENGINEERS**.
 - I also joined **CODEGNE** Today.In this **DR.H.S. RAI** sir will guide us about various technologies.
 
