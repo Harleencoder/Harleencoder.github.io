@@ -154,7 +154,7 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
       - It helps in developing positive attitude, self-confidence, courage & patience.
 
         ## **DAY 8**
-        - Er. Kanwardeep Grewal mam intorduced  us to  **The Journey from Campus to Corporate and Building a Future Beyond the Classroom**. In addition with technical skills, **Soft skills** are also improtant. Without soft skills our technical skills are Zero. We also saw a *Role play* by our seniors related to interviews that teaches us about how to behave during interviews and how to maintain  our confidence in front of interviewer.
+        - Er. Kanwardeep Grewal mam intorduced  us to  **The Journey from Campus to Corporate and Building a Future Beyond the Classroom**. In addition with technical skills, **Soft skills** are also improtant. Without soft skills our technical skills are Zero. We also saw a *Role play* by our seniors related to interviews that teaches us about how to behave during interviews and how to maintain  our confidence in front of interviewer. She also gave me and my friend chocolate for attentive listening.
         - What are soft skills?
            - Basic etiquettes
            - Personality traits
@@ -171,7 +171,32 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
         - Most important thing- NETWORKING
         - Groom yourself
 
-      - 
+      - After that Dr. Jaswinder singh ( the incharge of IAPT) came and explained  concepts of  induction , surface tension  and conduction Where in classes these topics seems very tough and boring, he explained them in very easy and funny way.  . He is a great presonality. He is awarded with **Shiksha Ratan** award . He said that everything in this world is connected with mathematics. He also gave suitable examples. He also gave us trick to know how many bones are in human body and the number of bones in each part of our body. He is a *GREAT PERSONALITY* and also a Inspiration for many younsters.
+      - After that all students of IT section A and B assembled in **SEMINAR HALL**. There Our Teachers organised a quiz for us which was very informative. IT section B won the quiz.After that there was interation with our *SENIOR* who told us informative things in funny way.
+
+        # **Workshop 3: A Deep Dive into Pandoc**
+        - On Day 8 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. Our team leader assigned tasks to team members and all performed their tasks very well.
+
+## The Technical Hurdles
+Our first challenge hit us as soon as we tried to set up. We realized we didn’t have the necessary converters for screen sharing, which put a wrench in our plans. To make matters worse, the WiFi connection decided to be uncooperative. Despite these setbacks, we managed to push through and start the workshop, determined to make it a success.
+
+# The Presentation
+- Karmandeep Kaur took the stage first, providing an engaging introduction to Pandoc. She laid a solid foundation, explaining what Pandoc is and its importance in converting documents from one format to another.
+- Following Karmandeep, Sharandeep Kaur walked the audience through the installation process. She ensured that everyone understood how to set up Pandoc on their own systems, making it accessible for everyone to follow along.
+- Next, I  with the assistance of Kamaljeet kaur , demonstrated the basic conversion of a markdown file to HTML and DOCX.
+- Akshay then explained the difference between files processed with and without the standalone function. His detailed explanation highlighted the nuances and options available in Pandoc, providing deeper insights into its capabilities.
+- Finally our  leader, explained the process of making an ebook using Pandoc. His  hands-on demonstration made the process look straightforward and easy to replicate, boosting the audience’s confidence.
+
+## Audience Engagement
+One of the most rewarding aspects of the workshop was the audience. They were incredibly attentive and stayed with us until the very end. Many of them participated in hands-on activities, which was encouraging to see. They were keen to learn, asking questions and clearing their doubts, which made the session interactive and lively.
+
+## Reflection
+Looking back, despite the initial technical challenges, the workshop was a success. The teamwork and resilience displayed by everyone were commendable. Each member of the team played a crucial role, and the audience’s engagement made all the efforts worthwhile.
+
+As a leader, this experience taught me the importance of adaptability and teamwork. It reinforced the value of preparation and the ability to think on one’s feet. Most importantly, it was a reminder that with determination and collaboration, we can overcome any obstacle.
+
+I’m grateful for the opportunity to lead such a dedicated team and to share knowledge with an enthusiastic audience. This workshop was not just about Pandoc; it was about learning, growing, and moving forward together.
+
         
 
 
