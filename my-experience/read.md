@@ -19,7 +19,6 @@ Students who interacted and spoke up received chocolates. In the end, I missed o
 ## **Day 2**
 On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
-
 # **Types of membership**
 
 - Member
@@ -27,17 +26,17 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 - Executive Member
 - Officer Bearer
   
-  # **Two Types of Societies**
+# **Two Types of Societies**
  
  - National level associated
  - Department level associated
    
-   # **Sir  also gave us formula of success:-**
+# **Sir  also gave us formula of success:-**
  
- **3Ps of success**
-- Passion
-- Persistence
-- Patience
+**3Ps of success**
+ - Passion
+ - Persistence
+ - Patience
   
 -  Dr.Parminder sir also addressed us He  explained some scholorship schemes
 - Dr.H.S Rai sir addressed us. He  is controller of examinations and told us that Principle in Software development is *DRY(DON’T REPEAT YOURSELF)*.
@@ -45,17 +44,17 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
   ## **Day 3**
 
-  - It was our First Day in our Classroom. Our First Lecture was of **UNIVERSAL HUMAN VALUES**(UHV).
-  - In UHV  we learnt about
-  1. Values :-
+ - It was our First Day in our Classroom. Our First Lecture was of **UNIVERSAL HUMAN VALUES**(UHV).
+- In UHV  we learnt about
+1. Values :-
     - values should be rational,universal and lead to Harmony
-  2. Reasons of Unhappiness are :-
+2. Reasons of Unhappiness are :-
      - Lack of Fullfillment of Relationship
      - Lack of Physical Facilities
-  3. Role of Education :-
+3. Role of Education :-
      - education helps us to develop **Right Understanding**
 
-  - Our Second Lecture was about brief explanation of **EXCEL** and **CHAT GPT** by our Seniors.
+- Our Second Lecture was about brief explanation of **EXCEL** and **CHAT GPT** by our Seniors.
 
   ## **DAY 4**      
 
