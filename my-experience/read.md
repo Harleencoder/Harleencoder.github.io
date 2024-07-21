@@ -18,7 +18,7 @@ Next, the ADGP Officer shared invaluable insights about karma and the delayed re
 Students who interacted and spoke up received chocolates. In the end, I missed out on chocolates but gained countless lessons, some the hard way. I resolved never to miss an opportunity again.
 
 ## **Day 2**
-On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
+- On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 
 # **Types of membership**
 
@@ -34,10 +34,10 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
    
 # **Sir  also gave us formula of success:-**
  
-**3Ps of success**
- - Passion
- - Persistence
- - Patience
+- **3Ps of success**
+    - Passion
+    - Persistence
+     - Patience
   
 - **Dr.Parminder** sir also addressed us He  explained some scholorship schemes
 - **Dr.H.S Rai** sir addressed us. He  is controller of examinations and told us that Principle in Software development is *DRY(DON’T REPEAT YOURSELF)*.
@@ -47,13 +47,13 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 
  - It was our First Day in our Classroom. Our **First Lecture** was of **UNIVERSAL HUMAN VALUES**(UHV).
 - In UHV  we learnt about
- 1. ** Values** :-
+ 1. **Values** :-
       - values should be rational,universal and lead to Harmony
 2. **Reasons of Unhappiness are** :-
       - Lack of Fullfillment of Relationship
       - Lack of Physical Facilities
 3. **Role of Education**:-
-     - education helps us to develop **Right Understanding**
+      - education helps us to develop **Right Understanding**
 
 - Our **Second Lecture** was about brief explanation of **EXCEL** and **CHAT GPT** by our Seniors.
 
@@ -62,7 +62,7 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 - Our Fourth day started in *AUDIOTORIUM*. **DR. RANDHIR SIR** told us about **GITHUB** and helped us in making our first repository.
 - **Dr. PYARE LAL** was **First Speaker of the Day** . He recited Famous POEMS and also told us about old ways of studying.
 - **Mr. SONY GOYAL** was **Second Speaker  of the Day**
-    - He told us that
+- He told us that
     - **What is Life?**
          -  The word L in LIFE stands for - Learn
          -  The Seconds word I stands for- Inquire
@@ -98,7 +98,7 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
    8.  When the Self has a feeling of self-regulation (the responsibility for nurturing, protection and right utilisation of the Body), and it is able to fulfil this responsibility, the Body is in harmony (good health). This feeling of self-regulation is instrumental in identifying the need for physical facility and ensuring prosperity.
     
 - In Our **Second Lecture**  our **SENIORS** gave us brief Information about **CANVA** . We also made our First **TEMPLATE** using canva
-- Later in the day, we attended a meeting of CodeGNE. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
+- Later in the day, we attended a meeting of **CodeGNE**. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
 
  <h2>DAY 7</h2>
 
@@ -125,8 +125,8 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
                      
  - After Lecture Of **UHV** we again assembles in **AUDITORIUM**
  - There **Dr. HARWINDER SINGH** ( ANO OF NCC). He introduced us to the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communication  skills, enhancing leadership qualities and team work and the most important thing, learning discipline.
-      
-      # *Benefits of opting NCC includes*:-
+
+   # *Benefits of opting NCC includes* :-
       - SAHARA Scholarship for NCC cadets
       - Expenses of uniforms and camps are beared by the government
       - Chance to get selected in armed forces NDA
@@ -137,13 +137,14 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 
   -  **Dr. Jasvir Singh Grewal** is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
 
-   # Work Done by NSS:-
+ # *Work Done by NSS*:-
   - Afforestation
   - AIDS Awareness
   - Blood Donation Camps
   - Cleaniness of Our Environment
   - Disaster Manangement
- # Benefits of NSS:-
+
+# *Benefits of NSS* :-
  - Personality Development.
  - Preference in Admission / Employment.
  - National Integration camp, Adventure Programme, State level as well as National Level programme.
@@ -153,18 +154,20 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
  - Volunteer”s interaction with the slum dwellers and villagers expose them to the realities of life and bring about a change in their social perception.
  - It helps in developing positive attitude, self-confidence, courage & patience.
 
- ## **DAY 8**
+## **DAY 8**
   - Er. Kanwardeep Grewal mam intorduced  us to  **The Journey from Campus to Corporate and Building a Future Beyond the Classroom**. In addition with technical skills, **Soft skills** are also improtant. Without soft skills our technical skills are Zero. We also saw a *Role play* by our seniors related to interviews that teaches us about how to behave during interviews and how to maintain  our confidence in front of interviewer. She also gave me and my friend chocolate for attentive listening.
         - **What are soft skills?**
            - Basic etiquettes
            - Personality traits
     
     ## First Impression
-    -ABC of first impression:-
+    
+    - ABC of first impression:-
         - Appearance
         - Behaviour
         - Communication
-      ## Key Points
+          
+     ## Key Points
 
       - It takes 7 seconds to form first impression.
       -  Don’t use fillers in communication.
@@ -172,6 +175,7 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
       -  Groom yourself
 
 - After that **Dr. Jaswinder singh** ( the incharge of IAPT) came and explained  concepts of  induction , surface tension  and conduction Where in classes these topics seems very tough and boring, he explained them in very easy and funny way.  . He is a great presonality. He is awarded with **Shiksha Ratan** award . He said that everything in this world is connected with mathematics. He also gave suitable examples. He also gave us trick to know how many bones are in human body and the number of bones in each part of our body. He is a *GREAT PERSONALITY* and also a Inspiration for many younsters.
+  
 - After that all students of IT section A and B assembled in **SEMINAR HALL**. There Our Teachers organised a quiz for us which was very informative. IT section B won the quiz.After that there was interation with our *SENIOR* who told us informative things in funny way.
 
  # **Workshop 3: A Deep Dive into Pandoc**
@@ -180,7 +184,7 @@ On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 ## The Technical Hurdles
 Our first challenge hit us as soon as we tried to set up. We realized we didn’t have the necessary converters for screen sharing, which put a wrench in our plans. To make matters worse, the WiFi connection decided to be uncooperative. Despite these setbacks, we managed to push through and start the workshop, determined to make it a success.
 
-# The Presentation
+## The Presentation
 - Karmandeep Kaur took the stage first, providing an engaging introduction to Pandoc. She laid a solid foundation, explaining what Pandoc is and its importance in converting documents from one format to another.
 - Following Karmandeep, Sharandeep Kaur walked the audience through the installation process. She ensured that everyone understood how to set up Pandoc on their own systems, making it accessible for everyone to follow along.
 - Next, I  with the assistance of Kamaljeet kaur , demonstrated the basic conversion of a markdown file to HTML and DOCX.
