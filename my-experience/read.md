@@ -79,7 +79,25 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
 ## **DAY 6**
 
--
+- On  our Sixth Day First Lecture was of **UHV**.
+- In *UHV* we learnt that
+   1. Human Being is coexistence of **SELF** and **BODY**
+   2. The need of the Self is *Happiness* (e.g. feeling of respect leading to happiness) while the need of the  Body is *Physical facility* (e.g. food).
+   3. The Self has the activity of desire, thought and expectation which are continuous. On the other hand, any activity of the Body, like eating, walking, etc. is temporary in time.
+   4. The response of the Body is based on recognizing and fulfilling whereas the response of the Self is based on knowing, assuming, recognizing and fulfilling
+   5. The Self as the Consciousness Entity, the Body as the Material Entity
+   6. The needs of the Self and the Body are of two different types, so they have to be fulfilled separately. Agross misunderstanding is to assume the two to be the same, and this leads to the feeling of deprivation and exploitation.
+   7.  The activities of desire, thought and expectation are together called imagination. Imagination is continuously going on in the Self. The sources of imagination can be sensation, pre-conditioning or natural acceptance. There is harmony in the Self when the imagination is in line with one’s natural acceptance. Harmony in the Self is in continuity when all the activities of the Self are awakened.
+   8.  When the Self has a feeling of self-regulation (the responsibility for nurturing, protection and right utilisation of the Body), and it is able to fulfil this responsibility, the Body is in harmony (good health). This feeling of self-regulation is instrumental in identifying the need for physical facility and ensuring prosperity.
+      
+
+ 
+  
+
+  
+
+      
+  
 
 
 
