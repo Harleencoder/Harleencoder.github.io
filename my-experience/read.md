@@ -124,8 +124,9 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
             
                      
     - After Lecture Of **UHV** we again assembles in **AUDITORIUM**
-    - There **Dr. HARWINDER SINGH** ( ANO OF NCC). He introduces us to the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communication  skills, enhancing leadership qualities and team work and the most important thing, learning discipline.
-    - *Benefits of opting NCC includes*:-
+    - There **Dr. HARWINDER SINGH** ( ANO OF NCC). He introduced us to the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communication  skills, enhancing leadership qualities and team work and the most important thing, learning discipline.
+      
+      #*Benefits of opting NCC includes*:-
       - SAHARA Scholarship for NCC cadets
       - Expenses of uniforms and camps are beared by the government
       - Chance to get selected in armed forces NDA
@@ -134,7 +135,31 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
 
 
-    - 
+    - Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+
+      # Work Done by NSS:-
+      - Afforestation
+      - AIDS Awareness
+      - Blood Donation Camps
+      - Cleaniness of Our Environment
+      - Disaster Manangement
+      # Benefits of NSS:-
+      - Personality Development.
+      - Preference in Admission / Employment.
+      - National Integration camp, Adventure Programme, State level as well as National Level programme.
+      - It helps in acquiring leadership qualities and democratic attitude.
+      - It provides diversified opportunities to students in colleges and universities to develop their personality through community service.
+      - It developer a sense of involvement in the task of nation building.
+      - Volunteer”s interaction with the slum dwellers and villagers expose them to the realities of life and bring about a change in their social perception.
+      - It helps in developing positive attitude, self-confidence, courage & patience.
+
+        ## **DAY 8**
+        
+
+
+      
+
+
     -   
        
 
