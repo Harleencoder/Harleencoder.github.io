@@ -66,9 +66,9 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
          1. Give your 100%
          2. Do what you love,love what you do
 - Mr. PANCHAM (*our senior*) was Third Speaker of the Day. He gave us brief information about **BODY LANGUAGES** AND **SOCIETY OF AUTOMOTIVE ENGINEERS**.
-- I also joined **CODEGNE** Today.In this **DR.H.S. RAI** sir will guide us about various technologies.  
+- I also joined **CODEGNE** Today.In this **DR.H.S. RAI** sir will guide us about various technologies.
 
- ## **DAY 5**
+## **DAY 5**
  
  - On our Fifth Day of College there was **DEPARTMENT VISIT** organised by College 
  - Firstly we went to **HARDWARE LAB** where we were introduced to the core values and goals of the IT department.
