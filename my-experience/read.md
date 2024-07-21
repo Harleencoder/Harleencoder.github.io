@@ -45,6 +45,20 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
 
   ## **Day 3**
 
+  - It was our First Day in our Classroom. Our First Lecture was of **UNIVERSAL HUMAN VALUES**(UHV).
+  - In UHV  we learnt about
+  1. Values :-
+    - values should be rational,universal and lead to Harmony
+  2. Reasons of Unhappiness are :-
+     - Lack of Fullfillment of Relationship
+     - Lack of Physical Facilities
+  3. Role of Education :-
+     - education helps us to develop **Right Understanding**
+
+  - Our Second Lecture was about brief explanation of **EXCEL** and **CHAT GPT** by our Seniors.
+
+  ## **DAY 4**      
+
 
 
 
