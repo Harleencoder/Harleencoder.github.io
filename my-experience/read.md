@@ -1,4 +1,5 @@
 # MY EXPERIENCE @ GNDEC
+![alt text](image.jpg)
 
 
 
