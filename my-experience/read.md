@@ -123,7 +123,8 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
         - *LOVE* ( COMPLETE LOVE)
             
                      
-    -  
+    - After Lecture Of **UHV** we again assembles in **AUDITORIUM**
+    - There **Dr. HARWINDER SINGH** 
     -   
        
 
