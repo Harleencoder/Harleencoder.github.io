@@ -126,7 +126,7 @@ On our second day Dr. Arvind Dhingra sir addressed us and  explained
     - After Lecture Of **UHV** we again assembles in **AUDITORIUM**
     - There **Dr. HARWINDER SINGH** ( ANO OF NCC). He introduced us to the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communication  skills, enhancing leadership qualities and team work and the most important thing, learning discipline.
       
-      #*Benefits of opting NCC includes*:-
+      # *Benefits of opting NCC includes*:-
       - SAHARA Scholarship for NCC cadets
       - Expenses of uniforms and camps are beared by the government
       - Chance to get selected in armed forces NDA
