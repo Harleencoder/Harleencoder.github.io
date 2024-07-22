@@ -1,11 +1,11 @@
 # MY EXPERIENCE @ GNDEC
 ![GNDEC LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgndec.ac.in%2Fsae%2Fimg%2Fgndec1.jpeg&tbnid=ib5M8pDSfRMpjM&vet=1&imgrefurl=https%3A%2F%2Fgndec.ac.in%2Fsae%2F&docid=4PJ8ZnnWG_H_sM&w=740&h=414&hl=en-US&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=f174f764ce1d0e7e&shem=abme%2Ctrie)
 
-## **ABOUT GNDEC**
+## ABOUT GNDEC
 Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority institution of Northern India, was established under the aegis of Nankana Sahib Education Trust (NSET) in 1956.NSET was founded in memory of the most sacred temple of Nankana Sahib, birth place of Guru Nanak Dev Ji.The College was affiliated with Punjab University, Chandigarh since its inception.GNDEC remains overall sports champion of IKG Punjab Technical University. IKGPTU declared GNDEC Best Engineering college in year 2011 and 2012 & 2014 for excellent placements amongst all its affiliated colleges.NDEC runs seven Engineering Branches (Civil Engg., Mech. Engg, Elect.Engg., Electronics & Comm. Engg. Computer Sc. & Engg,, Information Technology, Mech. Engg. (Production), BCA, BBA, Architecture at UG level and 11 PG level courses including MBA, MCA. It also runs PG Diplomas. The college has Ph.D in all Engineering Branches and it is a QIP Centre under AICTE for Ph.D in streams viz. Civil Engg., Mech. Engg. Electrical Engineering. Nearly 30,000 Graduates and 7500 Post Graduates have passed out from this college and are at present successfully employed on high profile jobs in India & abroad making their alma mater proud of them.
 ![College](https://github.com/Harleencoder/Harleencoder.github.io/blob/main/college.jpg)
 
-## **DAY 1**
+## DAY 1
 - My first day at **GNDEC** started with all the  students assembling  in the **COLLEGE GURUDWARA SAHIB**  for kirtan and ardas 
 - After that all students assembled in auditorium. The atmosphere was calm, and the stage was beautifully decorated. After waiting for about 30 minutes, the host invited the first speaker, **Harpreet Mam**. Her lecture made us feel like we were already a part of the **GNDEC** family.
 - Our **Principal Sir** then motivated us to make the best use of this platform. The NSET Director introduced us to the illustrious history of this institution, emphasizing its 100 years of shaping brilliant minds. He highlighted the first 36 years, which were dedicated to establishing the institute.
@@ -13,24 +13,24 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 - Next, the ADGP Officer shared invaluable insights about karma and the delayed rewards of good deeds. He spoke from experience for about an hour without any preparation, which was impressive. One piece of advice that stood out was: **“Don’t be easily impressed; there’s always more to learn.”**
 - Students who interacted and spoke up received chocolates. In the end, I missed out on chocolates but gained countless lessons, some the hard way. I resolved never to miss an opportunity again.
 
-## **Day 2**
+## Day 2
 - On our second day **Dr. Arvind Dhingra** sir addressed us and  explained
 
-# **Types of membership**
+# Types of membership
 
 - Member
 - Active Member
 - Executive Member
 - Officer Bearer
   
-# **Two Types of Societies**
+# Two Types of Societies
  
  - National level associated
  - Department level associated
    
-# **Sir  also gave us formula of success:-**
+# Sir  also gave us formula of success:-
  
-- **3Ps of success**
+ - 3Ps of success
     - Passion
     - Persistence
      - Patience
@@ -39,7 +39,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 - **Dr.H.S Rai** sir addressed us. He  is controller of examinations and told us that Principle in Software development is *DRY(DON’T REPEAT YOURSELF)*.
 - **Dr H.S Rai** sir also told us to do ** POWER SEARCHING COURSE BY GOOGLE** which will help us to search more Quickly and Accurately.
 
-## **Day 3**
+## Day 3
 
  - It was our First Day in our Classroom. Our **First Lecture** was of **UNIVERSAL HUMAN VALUES**(UHV).
 - In UHV  we learnt about
@@ -53,7 +53,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 
 - Our **Second Lecture** was about brief explanation of **EXCEL** and **CHAT GPT** by our Seniors.
 
-## **DAY 4**
+## DAY 4
 
 - Our Fourth day started in *AUDIOTORIUM*. **DR. RANDHIR SIR** told us about **GITHUB** and helped us in making our first repository.
 - **Dr. PYARE LAL** was **First Speaker of the Day** . He recited Famous POEMS and also told us about old ways of studying.
@@ -71,7 +71,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 - **Mr. PANCHAM** (*our senior*) was Third Speaker of the Day. He gave us brief information about **BODY LANGUAGES** AND **SOCIETY OF AUTOMOTIVE ENGINEERS**.
 - I also joined **CODEGNE** Today.In this **DR.H.S. RAI** sir will guide us about various technologies.
 
-## **DAY 5**
+## DAY 5
  
  - On our Fifth Day of College there was **DEPARTMENT VISIT** organised by College 
  - Firstly we went to **HARDWARE LAB** where we were introduced to the core values and goals of the IT department.
@@ -80,7 +80,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
  - After the enlightening session in the hardware lab, we had the opportunity to visit various other labs within the IT department. Each lab offered a glimpse into different facets of IT, from software development to network systems, and more. These visits were incredibly informative, allowing us to see the practical applications of our coursework and the resources available to us.
  - Later in the day, we attended a meeting of CodeGNE. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
 
-## **DAY 6**
+## DAY 6
 
 - On  our Sixth Day **First Lecture** was of **UHV**.
 - In *UHV* we learnt that
@@ -96,7 +96,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 - In Our **Second Lecture**  our **SENIORS** gave us brief Information about **CANVA** . We also made our First **TEMPLATE** using canva
 - Later in the day, we attended a meeting of **CodeGNE**. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
 
- <h2>DAY 7</h2>
+ ## DAY 7
 
  - Our Seventh day started in *AUDIOTORIUM*.
  - **Pf HARPAL SINGH PANNU** was **First Speaker of the Day**
@@ -151,7 +151,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
  - Volunteer”s interaction with the slum dwellers and villagers expose them to the realities of life and bring about a change in their social perception.
  - It helps in developing positive attitude, self-confidence, courage & patience.
 
-## **DAY 8**
+## DAY 8
   - Er. Kanwardeep Grewal mam intorduced  us to  **The Journey from Campus to Corporate and Building a Future Beyond the Classroom**. In addition with technical skills, **Soft skills** are also improtant. Without soft skills our technical skills are Zero. We also saw a *Role play* by our seniors related to interviews that teaches us about how to behave during interviews and how to maintain  our confidence in front of interviewer. She also gave me and my friend chocolate for attentive listening.
         - **What are soft skills?**
            - Basic etiquettes
