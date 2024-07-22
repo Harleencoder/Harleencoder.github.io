@@ -127,10 +127,12 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
       - Chance to get selected in armed forces NDA
       - Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
       - The life skills provided by NCC are:-
+        ![ncc](https://askeducareer.com/wp-content/uploads/2020/08/10-essential-life-skills-you-must-learn.-1024x536.jpg)
 
 
 
   -  **Dr. Jasvir Singh Grewal** is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+    ![nss](https://udaipurtimes.com/static/c1e/client/74416/migrated/cb3c6928f4b3a24fe242af0d8a8c79f5.png)
 
   <h1>Work Done by NSS :-</h1>
   
@@ -171,10 +173,15 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
       -  Groom yourself
 
 - After that **Dr. Jaswinder singh** ( the incharge of IAPT) came and explained  concepts of  induction , surface tension  and conduction Where in classes these topics seems very tough and boring, he explained them in very easy and funny way.  . He is a great presonality. He is awarded with **Shiksha Ratan** award . He said that everything in this world is connected with mathematics. He also gave suitable examples. He also gave us trick to know how many bones are in human body and the number of bones in each part of our body. He is a *GREAT PERSONALITY* and also a Inspiration for many younsters.
+  ![Dr Jaswinder Singh[]()](https://voiceasianews.com/wp-content/uploads/2024/06/VOICE-ASIA-NEWS-MALAYSIA-5-7.jpg)
   
 - After that all students of IT section A and B assembled in **SEMINAR HALL**. There Our Teachers organised a quiz for us which was very informative. IT section B won the quiz.After that there was interation with our *SENIOR* who told us informative things in funny way.
 
- <h1>Workshop 3: A Deep Dive into Pandoc</h1>
+ # Workshop 3: A Deep Dive into Pandoc
+ 
+ ![alt text](blob:https://web.telegram.org/2ce81070-9845-47f6-a8b2-a729b0e68a69)
+
+ 
   - On Day 8 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. Our team leader assigned tasks to team members and all performed their tasks very well.
 
 ## The Technical Hurdles
