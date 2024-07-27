@@ -36,7 +36,7 @@
   ## Blog Post
 
   [View My Blog](my-experience/read.md)
-  [Excel Course](
+  [Excel Course](COURSE/EXCEL)
   
   <h2>Contact Details</h2>
  
