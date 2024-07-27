@@ -217,6 +217,8 @@ I’m grateful for the opportunity to lead such a dedicated team and to share kn
   # DAY 11
 
   - Today, our induction program took an inspiring turn with a series of motivational and informative sessions that left us eager to explore new opportunities.The day began with an uplifting lecture by **Mr. Gauravdeep Singh**, the Founder of the club Initiators of Change. His talk was not just motivational but also a powerful reminder of the impact we can have when we choose to be proactive in our communities. Mr. Singh’s insights into leadership and social responsibility were particularly inspiring, and they resonated with many of us.
+  ![Gauravdeep Singh](https://starsunfolded.com/wp-content/uploads/2021/02/Gauravdeep-Singh-194x300.jpg)
+    
   - Following the motivational talk, we had the privilege of hearing from **Er. Lakhveer Singh**, the Coordinator of the Center of Multifaceted Learning (CML). He provided a comprehensive overview of CML’s mission and the various resources available to us as students. The briefing was an eye-opener, showcasing the diverse learning opportunities we have access to, ranging from technical skills to personal development.
   - After a short break, we attended a session led by members of the **Causmic club**. This lecture introduced us to GNDEC’s Apex program, highlighting the benefits and opportunities it offers. The Causmic club members also shared information about upcoming events and the various avenues for engagement within the club. It was an exciting glimpse into the vibrant student life and the potential for growth through participation in club activities.
 
