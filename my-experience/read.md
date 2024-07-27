@@ -179,7 +179,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 
  # Workshop 3: A Deep Dive into Pandoc
  
- ![alt text](blob:https://web.telegram.org/2ce81070-9845-47f6-a8b2-a729b0e68a69)
+ ![alt text](https://ishmeet-codes.github.io/Dex/pic_workshop.jpeg)
 
  
   - On Day 8 of my college journey, we embarked on a mission to demystify Pandoc, a versatile document conversion tool, through our third workshop. Our team leader assigned tasks to team members and all performed their tasks very well.
