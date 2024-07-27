@@ -95,7 +95,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 - In Our **Second Lecture**  our **SENIORS** gave us brief Information about **CANVA** . We also made our First **TEMPLATE** using canva
 - Later in the day, we attended a meeting of **CodeGNE**. This session was focused on the theme of improvisation. We learned various strategies and techniques to enhance our problem-solving skills and adaptability. The discussion provided valuable insights on how to think on our feet and make effective decisions in dynamic situations.
 
- # DAY 7
+  # DAY 7
 
  - Our Seventh day started in *AUDIOTORIUM*.
  - **Pf HARPAL SINGH PANNU** was **First Speaker of the Day**
