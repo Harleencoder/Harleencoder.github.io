@@ -36,7 +36,7 @@
 ## Blog Post
 
   - [View My Blog](my-experience/read.md)
-  - [Excel Course](COURSE/EXCEL)
+  - [Excel Course](Courses/Excel.md)
   
 ## Contact Details
  
