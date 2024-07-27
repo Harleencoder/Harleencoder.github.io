@@ -1,6 +1,6 @@
 # EXCEL COURSE
 # MY CERTIFICATE
-![Excel Certificate](https://Harleencoder.github.io/EXCEL.jpeg)
+![Excel Certificate](Courses/exel.jpg)
 
 MY EXPERIENCE IN COURSE
 This coures is a beginner and intermediate level course given by greate learning platfrom . This couse helped me to understand the basics of excel , different function , different graph and charts . This has 5 hour long recorded video lecture which helped me to understad the concepts at my own pace. I learned the basics of Excel along with advanced concepts. This was very easy to understnand applying formula and shortcuts etc. Overall, this course very interesting and very helpfull .
