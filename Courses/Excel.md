@@ -62,6 +62,7 @@
   ![Pie Chart](https://media.geeksforgeeks.org/wp-content/uploads/20220920123646/Piechartexample2.png)
 
 - **BAR GRAPH** - A bar chart or bar graph is a chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent.
+  ![Bar Graph](https://media.geeksforgeeks.org/wp-content/uploads/20230704123818/Percentage-Bar-Diagram-copy-(1).webp)
 
 - **SCATTER GRAPH** - Scatter plots are the graphs that present the relationship between two variables in a data-set. It represents data points on a two-dimensional plane or on a Cartesian system.
   
