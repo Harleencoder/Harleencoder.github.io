@@ -38,10 +38,9 @@
   - [View My Blog](my-experience/read.md)
   - [Excel Course](COURSE/EXCEL)
   
-  <h2>Contact Details</h2>
+  ## Contact Details
  
- - **Email**:-
-   [=](harleenkaur0631@gmail.com)
+ - **Email**:-harleenkaur0631@gmail.com
 
    
 
