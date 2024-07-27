@@ -56,6 +56,7 @@
 
 
 - **LINE GRAPH** - Line charts can display continuous data over time, set against a common scale, and are therefore ideal for showing trends in data at equal intervals or over time .
+  ![Line Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pushkin_population_history.svg/1200px-Pushkin_population_history.svg.png)
 
 - **PIE CHART** - Pie charts can be used to show percentages of a whole, and represents percentages at a set point in time. Unlike bar graphs and line graphs, pie charts do not show changes over time. The following pages describe the different parts of a pie chart.
 
