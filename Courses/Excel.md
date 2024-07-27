@@ -1,6 +1,8 @@
 # EXCEL COURSE
+
 # MY CERTIFICATE
-![Excel Certificate](Courses/exel.jpg)
+
+![Excel Certificate](Courses/exel.jpeg)
 
 ## MY EXPERIENCE IN COURSE
 - This coures is a beginner and intermediate level course given by **Great Learning Platform** . This course helped me to understand the basics of excel , different functions , different graphs and charts . This has 5 hour long recorded video lecture which helped me to understad the concepts at my own pace. I learned the basics of Excel along with advanced concepts. This was very easy to understnand applying formula and shortcuts etc. Overall, this course  was very interesting and very helpfull .
