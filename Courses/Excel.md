@@ -59,6 +59,7 @@
   ![Line Graph](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pushkin_population_history.svg/1200px-Pushkin_population_history.svg.png)
 
 - **PIE CHART** - Pie charts can be used to show percentages of a whole, and represents percentages at a set point in time. Unlike bar graphs and line graphs, pie charts do not show changes over time. The following pages describe the different parts of a pie chart.
+  ![Pie Chart](https://media.geeksforgeeks.org/wp-content/uploads/20220920123646/Piechartexample2.png)
 
 - **BAR GRAPH** - A bar chart or bar graph is a chart or graph that presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent.
 
