@@ -131,7 +131,7 @@ Guru Nanak Dev Engineering College, one of the prestigious, oldest and minority 
 
 
 
-  -  **Dr. Jasvir Singh Grewal** is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+  -  **Dr. Jasvir Singh Grewal** is the coordinator of NSS. He introduced us to the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (AQI) of the environment.
     ![nss](https://udaipurtimes.com/static/c1e/client/74416/migrated/cb3c6928f4b3a24fe242af0d8a8c79f5.png)
 
 ## Work Done by NSS :-
