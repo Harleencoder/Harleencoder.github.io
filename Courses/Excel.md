@@ -2,7 +2,7 @@
 
 # MY CERTIFICATE
 
-![Excel Certificate](![excel](https://github.com/user-attachments/assets/052a5b5f-a08b-4cb1-8c03-e331afb28fc7)
+![excel](https://github.com/user-attachments/assets/052a5b5f-a08b-4cb1-8c03-e331afb28fc7)
 
 
 ## MY EXPERIENCE IN COURSE
