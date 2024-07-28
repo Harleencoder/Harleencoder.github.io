@@ -21,7 +21,7 @@
   
 - **IF** : Checks whether a condition is met and returns one value if true and another value if false.
   
-- **VLOOKUP** : Searches for a value in the first column of a table and returnsvalue in the same row from another column.
+- **VLOOKUP** : Searches for a value in the first column of a table and returns value in the same row from another column.
   
 - **INDEX** : Returns the value of a cell in a specified row and column of a range.
   
