@@ -75,6 +75,6 @@
 
 ## SUMMARY
 
-- This is a very good course which will suerly help me in my professional life. It was very interesting to watch video lectures and learn different function and graphs at my own pace. In short I found this beginner level excel course very helpfull and intersting.
+- This is a very good course which will surely help me in my professional life. It was very interesting to watch video lectures and learn different function and graphs at my own pace. In short I found this beginner level excel course very helpfull and intersting.
 
 
